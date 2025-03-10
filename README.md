@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there! 👋
+It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I'm a Chinese, a computer science student from South China Agricultural University (SCAU) in Guangzhou, China, targeting to be a **full-stack back end developer**. Also, as a member of 
 
 <!--
 **Chiyoshic/Chiyoshic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -35,6 +35,12 @@ It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" width="45" height="45" />
+      </a>
+      <br/> MySQL
+        </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="45" height="45" />
       </a>
       <br/> Spring
@@ -46,6 +52,12 @@ It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="45" height="45" />
       </a>
       <br/> idea
+        </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=clion" alt="Clion" width="45" height="45" />
+      </a>
+      <br/> CLion
         </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
@@ -68,9 +80,16 @@ It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
     </tr>
 </table>
 
-![Static Badge](https://img.shields.io/badge/Level-Learning-red?style=flat)
+![Static Badge](https://img.shields.io/badge/Level-Master-yellow?style=flat)
+
 <table>
     <tr>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=py" alt="py" width="45" height="45" />
+      </a>
+      <br/> Python
+        </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
@@ -83,6 +102,32 @@ It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
       </a>
       <br/> CSS
         </td>
+    </tr>
+    <tr>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm" width="45" height="45" />
+      </a>
+      <br/> WebStorm
+        </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="45" height="45" />
+      </a>
+      <br/> Ae
+        </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=au" alt="au" width="45" height="45" />
+      </a>
+      <br/> Au
+        </td>
+    </tr>
+</table>
+
+![Static Badge](https://img.shields.io/badge/Level-Learning-red?style=flat)
+<table>
+    <tr>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45" />

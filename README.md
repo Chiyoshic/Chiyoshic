@@ -12,3 +12,4 @@ It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
 - ⚡ Fun fact: Besides coding, I'm a railway fan and anime fan.
 
 ## My Tech Stack ☕️
+![Static Badge](https://img.shields.io/badge/Level-Skilled-blue?style=flat)

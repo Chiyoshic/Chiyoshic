@@ -1,5 +1,5 @@
 # Hi there! 👋
-It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I'm a Chinese, a computer science student from South China Agricultural University (SCAU) in Guangzhou, China, targeting to be a **full-stack back end developer**. Also, as a member of *the Association of Innovation and Entrepreneurship Natural Science Section*, I am passionate about researching new technologies and tyr my best to learn them. 
+It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I'm a Chinese, a computer science student from South China Agricultural University (SCAU) in Guangzhou, China, targeting to be a **full-stack back end developer**. Also, as a member of *the Association of Innovation and Entrepreneurship Natural Science Section*, I am passionate about researching new technologies and try my best to learn them. 
 
 ### ✨Some Introduction
 - 🔭 I’m currently working on back end part of some projects using Spring framework by Java.
@@ -80,7 +80,7 @@ It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
     </tr>
 </table>
 
-![Static Badge](https://img.shields.io/badge/Level-Master-yellow?style=flat)
+![Static Badge](https://img.shields.io/badge/Level-On%20Average-yellow?style=flat)
 
 <table>
     <tr>
@@ -145,6 +145,18 @@ It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="45" height="45" />
       </a>
       <br/> Swift
+        </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="45" height="45" />
+      </a>
+      <br/> Vue
+        </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45" />
+      </a>
+      <br/> React
         </td>
     </tr>
 </table>

@@ -1,5 +1,5 @@
 # Hi there! 👋
-It's chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I'm a Chinese, a computer science student from South China Agricultural University (SCAU) in Guangzhou, China, targeting to be a **full-stack back end developer**. Also, as a member of *the Association of Innovation and Entrepreneurship Natural Science Section*, I am passionate about researching new technologies and try my best to learn them. 
+It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I'm a Chinese, a computer science student from South China Agricultural University (SCAU) in Guangzhou, China, targeting to be a **full-stack back end developer**. Also, as a member of *the Association of Innovation and Entrepreneurship Natural Science Section*, I am passionate about researching new technologies and try my best to learn them. 
 
 ### ✨Some Introduction
 - 🔭 I’m currently working on back end part of some projects using Spring framework by Java.

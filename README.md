@@ -160,3 +160,7 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         </td>
     </tr>
 </table>
+
+![Static Badge](https://img.shields.io/badge/Mastered%20Components-lightgreen?style=flat)
+
+Eureka | Ribbon

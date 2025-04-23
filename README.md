@@ -11,8 +11,8 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
 - 📫 How to reach me: <br>``Email: wchx1234567@gmail.com``<br>``X: @chiyoshiwong``
 - ⚡ Fun fact: Besides coding, I'm a railway fan and anime fan.
 
-![Chiyoshi's GitHub stats](https://github-readme-stats-puce-iota-20.vercel.app/api?username=Chiyoshic&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats-puce-iota-20.vercel.app/api/top-langs/?username=Chiyoshic&size_weight=1&count_weight=0&count_private=true)
+![Chiyoshi's GitHub stats](https://github-readme-stats-puce-iota-20.vercel.app/api?username=Chiyoshic&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676&height=192px)
+![Top Langs](https://github-readme-stats-puce-iota-20.vercel.app/api/top-langs/?username=Chiyoshic&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&height=192px)
 
 ## My Tech Stack ☕️
 ![Static Badge](https://img.shields.io/badge/Level-Skilled-blue?style=flat)

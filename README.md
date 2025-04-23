@@ -12,7 +12,7 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
 - ⚡ Fun fact: Besides coding, I'm a railway fan and anime fan.
 
 ![Chiyoshi's GitHub stats](https://github-readme-stats-puce-iota-20.vercel.app/api?username=Chiyoshic&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats-puce-iota-20.vercel.app/api/top-langs/?username=Chiyoshic&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats-puce-iota-20.vercel.app/api/top-langs/?username=Chiyoshic&size_weight=1&count_weight=0)
 
 ## My Tech Stack ☕️
 ![Static Badge](https://img.shields.io/badge/Level-Skilled-blue?style=flat)

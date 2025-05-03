@@ -4,7 +4,7 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
 ### ✨Some Introduction
 - 🔭 I’m currently working on back end part of some projects using Spring framework by Java.
 - 🌱 I’m currently learning: 
-<br>``back end: Spring Security``<br>``front end: SwiftUI in iOS development``<br>``language: Japanese``
+<br>``back end: Java Virtual Machine and JMeter``<br>``front end: SwiftUI in iOS development, Flutter for Dart in Android development``<br>``language: Japanese``
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 If you have anything about me or just are looking for someone to talk in English or Japanese, feel free and talk with me.

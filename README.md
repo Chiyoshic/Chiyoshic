@@ -10,6 +10,7 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
 - 💬 If you have anything about me or just are looking for someone to talk in English or Japanese, feel free and talk with me.
 - 📫 How to reach me: <br>``Email: wchx1234567@gmail.com``<br>``X: @chiyoshiwong``
 - ⚡ Fun fact: Besides coding, I'm a railway fan and anime fan!
+  
 
 ![Chiyoshi's GitHub stats](https://github-readme-stats-puce-iota-20.vercel.app/api?username=Chiyoshic&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676&height=192px)
 ![Top Langs](https://github-readme-stats-puce-iota-20.vercel.app/api/top-langs/?username=Chiyoshic&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&height=192px&exclude_repo=Library-Management-System-Mini,github-readme-stats)

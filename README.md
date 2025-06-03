@@ -107,6 +107,12 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
       </a>
       <br/> CSS
         </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="45" height="45" />
+      </a>
+      <br/> Kotlin
+        </td>
     </tr>
     <tr>
     <td align="center" width="90">
@@ -180,6 +186,12 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="45" height="45" />
       </a>
       <br/> Dart
+        </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="45" height="45" />
+      </a>
+      <br/> Scala
         </td>
     </tr>
 </table>

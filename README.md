@@ -193,6 +193,12 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
       </a>
       <br/> Scala
         </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=go" alt="go" width="45" height="45" />
+      </a>
+      <br/> Go
+        </td>
     </tr>
 </table>
 

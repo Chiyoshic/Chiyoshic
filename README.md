@@ -119,6 +119,12 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
       </a>
       <br/> Rust
         </td>
+        <td align="center" width="90">
+        <a href="#my-tech-stack-">
+          <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="45" height="45" />
+        </a>
+        <br/> Tauri
+        </td>
     </tr>
     <tr>
     <td align="center" width="90">
@@ -174,12 +180,6 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45" />
       </a>
       <br/> React
-        </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="45" height="45" />
-      </a>
-      <br/> Tauri
         </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">

@@ -40,29 +40,41 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=go" alt="go" width="45" height="45" />
+      </a>
+      <br/> Golang
+        </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" width="45" height="45" />
       </a>
       <br/> MySQL
         </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="45" height="45" />
+      </a>
+      <br/> Redis
+        </td>
+      <td align="center" width="90">
+      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="45" height="45" />
       </a>
       <br/> Spring
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="90">
+      <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=go" alt="go" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=maven" alt="maven" width="45" height="45" />
       </a>
-      <br/> Golang
+      <br/> Maven
         </td>
-        <td align="center" width="90">
+      <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="45" height="45" />
       </a>
-      <br/> Redis
+      <br/> Gradle
         </td>
     </tr>
 </table>

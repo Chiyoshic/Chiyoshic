@@ -54,33 +54,15 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
     <tr>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=go" alt="go" width="45" height="45" />
       </a>
-      <br/> idea
+      <br/> Golang
         </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=clion" alt="Clion" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="45" height="45" />
       </a>
-      <br/> CLion
-        </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=ai" alt="ai" width="45" height="45" />
-      </a>
-      <br/> Ai
-        </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="45" height="45" />
-      </a>
-      <br/> Xd
-        </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=pr" alt="pr" width="45" height="45" />
-      </a>
-      <br/> PR
+      <br/> Redis
         </td>
     </tr>
 </table>
@@ -119,31 +101,13 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
       </a>
       <br/> Rust
         </td>
+    </tr>
+    <tr>
         <td align="center" width="90">
         <a href="#my-tech-stack-">
           <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="45" height="45" />
         </a>
         <br/> Tauri
-        </td>
-    </tr>
-    <tr>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm" width="45" height="45" />
-      </a>
-      <br/> WebStorm
-        </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="45" height="45" />
-      </a>
-      <br/> Ae
-        </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=au" alt="au" width="45" height="45" />
-      </a>
-      <br/> Au
         </td>
     </tr>
 </table>
@@ -192,12 +156,6 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="45" height="45" />
       </a>
       <br/> Scala
-        </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=go" alt="go" width="45" height="45" />
-      </a>
-      <br/> Go
         </td>
     </tr>
 </table>

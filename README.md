@@ -121,6 +121,12 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         </a>
         <br/> Tauri
         </td>
+      <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="45" height="45" />
+      </a>
+      <br/> Swift
+        </td>
     </tr>
 </table>
 
@@ -138,12 +144,6 @@ It's Chiyoshi here. It sounds that I'm a Japanese via my netname, but actually I
         <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="45" height="45" />
       </a>
       <br/> TypeScript
-        </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="45" height="45" />
-      </a>
-      <br/> Swift
         </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
